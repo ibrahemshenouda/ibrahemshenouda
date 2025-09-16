@@ -7,7 +7,7 @@
 
 ## 📫 Contact Me  
 - 📧 Email: eprahimshenouda88@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/ibrahim-shenouda(https://www.linkedin.com/in/ibrahim-shenouda-220028254/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/ibrahim-shenouda-220028254/)
 - 
 ## 🛠️ Skills  
 - **Programming Languages**: C, C++, Python
