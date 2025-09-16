@@ -1,13 +1,13 @@
-# 👋 Hi, I'm [Ibrahim Shnouda]  
+# 👋 Hi, I'm Ibrahim Shnouda  
 
 ## 🧑‍💻 About Me  
 - 🎓 Computer Science Graduate / Software Engineer  
-- 💡 Interested in [Embedded Systems, IoT]  
-- 🌱 Currently learning: [YOCTO, Embedded android]  
+- 💡 Interested in Embedded Linux, IoT
+- 🌱 Currently learning: YOCTO, Embedded android 
 
 ## 📫 Contact Me  
-- 📧 Email: [eprahimshenouda88@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/ibrahim-shenouda](https://www.linkedin.com/in/ibrahim-shenouda-220028254/)
+- 📧 Email: eprahimshenouda88@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/ibrahim-shenouda(https://www.linkedin.com/in/ibrahim-shenouda-220028254/)
 - 
 ## 🛠️ Skills  
 - **Programming Languages**: C, C++, Python
