@@ -7,12 +7,11 @@
 
 ## 📫 Contact Me  
 - 📧 Email: eprahimshenouda88@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/ibrahim-shenouda-220028254/)
-- 
+- 💼 LinkedIn: https://www.linkedin.com/in/ibrahim-shenouda-220028254/
+  
 ## 🛠️ Skills  
 - **Programming Languages**: C, C++, Python
-- **Frameworks/Tools**: Linux, YOCTO
-- **Other**: Embedded Systems  
+- **Frameworks/Tools**: Linux, YOCTO  
 
 ---
 
