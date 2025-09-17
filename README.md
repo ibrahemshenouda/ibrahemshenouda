@@ -27,6 +27,10 @@
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <!-- Linux -->
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <!-- Ubuntu -->
+  <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" alt="Ubuntu" width="40" height="40"/></a>
+  <!-- Yocto -->
+  <a href="https://www.linux.org/"><img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Yocto.png" alt="Yocto" width="40" height="40"/></a>
   <!-- MQTT -->
   <a href="#"><img src="https://raw.githubusercontent.com/github/explore/main/topics/mqtt/mqtt.png" width="40" title="MQTT"/></a>
   <!-- Blynk -->
